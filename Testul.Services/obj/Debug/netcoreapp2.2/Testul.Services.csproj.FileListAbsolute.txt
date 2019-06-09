@@ -1,0 +1,9 @@
+C:\Users\Balakh\Desktop\Testul\Testul.Services\bin\Debug\netcoreapp2.2\Testul.Services.deps.json
+C:\Users\Balakh\Desktop\Testul\Testul.Services\bin\Debug\netcoreapp2.2\Testul.Services.dll
+C:\Users\Balakh\Desktop\Testul\Testul.Services\bin\Debug\netcoreapp2.2\Testul.Services.pdb
+C:\Users\Balakh\Desktop\Testul\Testul.Services\obj\Debug\netcoreapp2.2\Testul.Services.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Desktop\Testul\Testul.Services\obj\Debug\netcoreapp2.2\Testul.Services.AssemblyInfoInputs.cache
+C:\Users\Balakh\Desktop\Testul\Testul.Services\obj\Debug\netcoreapp2.2\Testul.Services.AssemblyInfo.cs
+C:\Users\Balakh\Desktop\Testul\Testul.Services\obj\Debug\netcoreapp2.2\Testul.Services.dll
+C:\Users\Balakh\Desktop\Testul\Testul.Services\obj\Debug\netcoreapp2.2\Testul.Services.pdb
+C:\Users\Balakh\Desktop\Testul\Testul.Services\obj\Debug\netcoreapp2.2\Testul.Services.csprojAssemblyReference.cache
